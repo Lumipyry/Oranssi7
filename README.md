@@ -1,5 +1,5 @@
 # Oranssi7
-KDE Plasma väriteema - KDE Plasma colour scheme
+KDE Plasma väriteema - Thème de coulour pour KDE Plasma - KDE Plasma colour scheme
 
 Rounded Rectangle ikoneilla - With Rounded Rectangle icon pack
 
